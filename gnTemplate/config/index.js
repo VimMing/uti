@@ -11,9 +11,9 @@ module.exports = {
     database: {
         use: true,
         connect: {
-            host: '119.3.237.250',
-            user: 'root',
-            password: 'root',
+            host: '',
+            user: '',
+            password: '',
             database: 'test'
         },
         table: 'user_test'
